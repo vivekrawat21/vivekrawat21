@@ -38,7 +38,7 @@
 
 <br>
 <li>
-  <a href="https://instagram.com/vivek__rwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek__rwt" height="40"  style="margin-bottom: 5px;" /></a>
+  <a href="https://instagram.com/vivek__rwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek__rwt" height="40px" style="margin-bottom: 5px;" /></a>
   </li>
   <br>
 <li>
