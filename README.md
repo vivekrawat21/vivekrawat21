@@ -46,7 +46,6 @@
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-<br>
 </ul>
 </div>
 <br>
