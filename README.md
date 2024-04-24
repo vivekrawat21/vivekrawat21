@@ -1,6 +1,8 @@
 [![An image of @vivekrawat21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivekrawat21)](https://holopin.io/@vivekrawat21)
-<h1 align="center">Hi, I'm Vivek rawat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 <br><br>
+
+<h1 align="center">Hi, I'm Vivek rawat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
